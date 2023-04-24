@@ -38,3 +38,30 @@ img {
 .gallery__big {
     grid-row: span 2;
 }
+
+h5 {
+    font-size: 2rem;
+    color: blue;
+}
+
+.cyan {
+    color: cyan;
+    background-color: beige;
+}
+
+.navy {
+    color: navy;
+    background-color: beige;
+}
+
+.aqua {
+    color: aqua;
+    background-color: beige;
+
+}
+
+.midnight {
+    color: midnightblue;
+    background-color: beige;
+
+}
