@@ -28,6 +28,13 @@ img {
     gap: 3rem;
 }
 
+
+.footer-text {
+    padding: 24px;
+    background: linear-gradient(to right, rgb(129, 129, 173), rgb(57, 57, 167)) ;
+    text-align: center;
+}
+
 .gallery {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -64,3 +71,4 @@ h5 {
     color: midnightblue;
     background-color: beige;
 }
+
