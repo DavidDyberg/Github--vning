@@ -12,7 +12,13 @@ body {
 
 img {
     max-width: 100%;
+    cursor: pointer;
 }
+
+img:hover {
+    border: 50px solid rgb(11, 11, 96);
+    transition: 2s;
+} 
 
 .header {
     min-height: 5rem;
