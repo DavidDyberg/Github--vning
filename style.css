@@ -63,16 +63,4 @@ h5 {
 .midnight {
     color: midnightblue;
     background-color: beige;
-
-}
-    
-.gallery {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 1rem;
-    padding: 1rem;
-}
-
-.gallery__big {
-    grid-row: span 2;
 }
