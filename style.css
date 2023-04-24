@@ -23,3 +23,9 @@ body {
     display: flex;
     gap: 3rem;
 }
+
+.footer-text {
+    padding: 24px;
+    background: rgb(72, 72, 146);
+    text-align: center;
+}
