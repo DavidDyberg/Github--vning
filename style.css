@@ -13,11 +13,12 @@ body {
 img {
     max-width: 100%;
     cursor: pointer;
+    border: 0 solid rgb(11, 11, 96);
+    transition: border 1s;
 }
 
 img:hover {
     border: 50px solid rgb(11, 11, 96);
-    transition: 2s;
 } 
 
 .header {
